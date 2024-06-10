@@ -1,0 +1,72 @@
+{
+  "seller": [
+    {
+      "id": "5bfe",
+      "name": "bailey noon",
+      "email": "baileynoon@yopmail.com",
+      "password": "abs@123"
+    },
+    {
+      "id": "3b57",
+      "name": "Sara noon",
+      "email": "saranoon@yopmail.com",
+      "password": "abs@123"
+    },
+    {
+      "id": "0edf",
+      "name": "Cydra noon",
+      "password": "abs@123",
+      "email": "cydra@yopmail.com"
+    },
+    {
+      "id": "eab7",
+      "name": "Cydra noon",
+      "password": "abc@123",
+      "email": "cydra@yopmail.com"
+    },
+    {
+      "id": "c54d",
+      "name": "Cydra noon",
+      "password": "abc@123",
+      "email": "cydra@yopmail.com"
+    },
+    {
+      "id": "2c3c",
+      "name": "lucy chen",
+      "password": "abc@123",
+      "email": "lucychen@yopmail.com"
+    },
+    {
+      "id": "72d3",
+      "name": "tim bradford",
+      "password": "abc@123",
+      "email": "timbrad@yopmail.com"
+    },
+    {
+      "id": "85ff",
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@yopmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "bff9",
+      "name": "samsung m40",
+      "price": "500",
+      "category": "mobile",
+      "color": "black",
+      "description": "this is a samsung product",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=webp&qlt=70&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHAra29qbHo3SmYvbWNSaVZoOHd1YUswbjFHN0J1cFhnbVRLZGNTN2JhbjJDZkdKTG1lVWJJT2RXQWE0Mm9rU1V0V0FCWldFRTM0dmVJazFwWS9XVlErb0RDS0FNK243WmpsLzcxZWRUY2pQMFVBPT0=&traceId=1"
+    },
+    {
+      "id": "a055",
+      "name": "iphone 14",
+      "price": "2000",
+      "category": "mobile",
+      "color": "red",
+      "description": "its an apple product",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=webp&qlt=70&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHAra29qbHo3SmYvbWNSaVZoOHd1YUswbjFHN0J1cFhnbVRLZGNTN2JhbjJDZkdKTG1lVWJJT2RXQWE0Mm9rU1V0V0FCWldFRTM0dmVJazFwWS9XVlErb0RDS0FNK243WmpsLzcxZWRUY2pQMFVBPT0=&traceId=1"
+    }
+  ]
+}
